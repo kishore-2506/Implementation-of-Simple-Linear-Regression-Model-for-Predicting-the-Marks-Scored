@@ -95,7 +95,8 @@ https://github.com/KrishnaPrasad148/Implementation-of-Simple-Linear-Regression-M
 https://github.com/KrishnaPrasad148/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Training%20Set.png
 
 ### TESTING SET:
-https://github.com/KrishnaPrasad148/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Testing%20Set.png
+![image](https://github.com/user-attachments/assets/81b65738-bb06-445c-8b9a-293ca737aba4)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
