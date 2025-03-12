@@ -83,20 +83,19 @@ print("RMSE= ",rmse)
 ![image](https://github.com/user-attachments/assets/239d324f-d10d-42d1-aa6c-afa7958aadf6)
 
 ### TAIL VALUES DISPLAY:
-https://github.com/KrishnaPrasad148/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Tail%20Values%20Display.png
+![Tail Values Display](https://github.com/user-attachments/assets/a629e26f-7bef-4f4d-881e-749ecbd37011)
 
 ### X AND Y VALUES:
-https://github.com/KrishnaPrasad148/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/X%20and%20Y%20Values.png
+![X and Y Values](https://github.com/user-attachments/assets/8d3463c3-7c9f-43b6-97d2-0be68e44e0a5)
 
 ### X AND Y PREDICTION VALUES:
-https://github.com/KrishnaPrasad148/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Prediction%20values%20of%20X%20and%20Y.png
+![Prediction values of X and Y](https://github.com/user-attachments/assets/afbbfd5a-bd17-4199-9da1-4397fbd05f5f)
 
 ### TRAINING SET:
-https://github.com/KrishnaPrasad148/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Training%20Set.png
+![Training Set](https://github.com/user-attachments/assets/f77be0b7-7108-4c16-b6f3-ae4ecfc44ba1)
 
 ### TESTING SET:
 ![image](https://github.com/user-attachments/assets/81b65738-bb06-445c-8b9a-293ca737aba4)
-
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
